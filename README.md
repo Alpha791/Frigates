@@ -1,1 +1,1 @@
-# Frigates
+open linux # Frigates
